@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository.
-I'm totally noob yet
+I'm a noob programmer and just arrive here!
